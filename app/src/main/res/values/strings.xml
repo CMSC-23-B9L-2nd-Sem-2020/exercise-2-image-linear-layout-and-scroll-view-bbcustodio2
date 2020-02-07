@@ -1,3 +1,48 @@
 <resources>
     <string name="app_name">Custodio_exer2</string>
+    <string name="which_disney_character_are_you">which disney Character are you?</string>
+    <string name="start">Start</string>
+    <string name="retry">retry</string>
+    <string name="find_out_which_disney_character_you_are">Find out which disney character you are!</string>
+    <string name="image_placeholder">Image placeholder</string>
+    <string name="ariel">The tawny-haired mermaid is a girl in the process of becoming an attractive woman.
+        One of her attractive qualities is that she is very definite about what she is doing and very confident about her own ability to succeed.
+        Of course, a good deal of that confidence is ill-placed, as she is just a teenager. Although she is warned by her father, King Triton, that humans are dangerous,
+        Ariel stubbornly believes otherwise and has an insatiable curiosity about them. She explores human artifacts (sunken ships, etc.)
+        and is constantly going into forbidden territory: the surface. This, of course, leads her to love and trouble.
+    </string>
+    <string name="aurora">Betrothed at birth to Prince Phillip, the infant Aurora is blessed with the gifts of beauty and song by the good fairies of the kingdom.
+        However, fate\'s icy hand brings an uninvited guest to the christening and the evil fairy Maleficent curses the child to die by the prick of a spinning wheel\'s spindle
+        before her 16th birthday. Struggling to prevent this catastrophe, the good fairies hide the princess in a secluded cottage in the glen. The years pass and Aurora
+        blossoms into a lovely but lonely young woman unaware of her real name and birth right.
+    </string>
+    <string name="cinderella">Cinderella is initially made a servant in her home and is constantly derided by her evil stepmother Lady Tremaine and two stepsisters.
+        Although she is abused and humiliated, she maintains hope through her dreams. She is faithful to the idea that someday her wishes of happiness will come true.
+        When her evil stepsisters and stepmother prevent her from going to the ball, she is heartbroken and alone. However, her fairy godmother appears and restores hope.
+        Cinderella is strong-willed and determined; when the invitation to the royal ball arrives, she does everything she can to persuade her stepmother that she has every
+        right to attend. She is presented in the film as a sympathetic heroine; well-meaning, hard-working, and positive. In Cinderella III: A Twist in Time, her determination
+        is put to the test as she goes through all odds to prove to her Prince that she\'s his true love. In this film she\'s seen in a very powering role and finally learns
+        that if you want a dream to come true, you have to help make it come true.
+    </string>
+    <string name="jasmine">
+        Jasmine, daughter of the Sultan, is only a few days short of her 16th birthday; the day on which, by law, she must choose a husband. However, she wants to marry for
+        love, so, to her father\'s great dismay, she keeps turning away her high-born suitors. She is not a prize to be won, that is for sure. She then decides to flee the
+        luxuries of the palace for the wild adventure of the marketplace where she happens to fall into the company of a young street thief, Aladdin. Headstrong and
+        impetuous, she makes a perfect match for Aladdin, although a street thief is hardly prince material.
+    </string>
+    <string name="rapunzel">
+        Rapunzel is a spirited, smart, clever, kind, playful, and a very adventurous girl in her late teens, though a bit naive. However, she is not afraid to stand up for
+        herself or others when the situation calls for bravery. Having spent all of her life isolated in a tower with little else to do, she is proficiently educated in
+        literature, and talented in almost all areas such as music and baking and even more advanced subjects like astronomy, as illustrated by her completely charted
+        astronomical patterns. Her greatest passion is art, as indicated by the pervasive amount of painting on the walls inside the tower. While she longs to see the world
+        beyond her window, she is very obedient to Mother Gothel. Despite having ambivalent feelings after leaving her tower in excitement to finally see the world, she
+        confronts and rebels against Mother Gothel\'s wish of her returning to the tower after a short journey with Flynn Rider. She is quite daring; leaping from tall cliffs
+        and swinging great lengths with her hair. She is completely immune to Flynn\'s so-called charms and has little tolerance for his antics, which usually results in her
+        utilizing the pan against Flynn. She is also very charismatic; able to influence a group of pub thugs to share their dreams and convince Maximus, the palace steed of
+        the Captain of the Guard, to postpone his pursuit of Flynn until she fulfills her dream on her birthday (which is heavily emphasized). Rapunzel is also known,
+        particularly by Pascal, to be quite trustworthy and never ever breaks the promises she makes.
+    </string>
+    <string name="snow_white">A princess of noble birth, Snow White is forced into rags as a scullery maid by her jealous stepmother, the Queen. Blessed with an innocent\'s
+        indomitable spirit, the fair maiden never loses faith that one day the wishing well will grant her wish for a true love to come and take her away. Though sometimes
+        portrayed as a "perfect" and "vanilla" character, Snow White actually shows throughout the film attitude and humor when making the dwarves wash up. </string>
 </resources>
